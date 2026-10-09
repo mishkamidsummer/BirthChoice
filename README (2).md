@@ -9,7 +9,7 @@ Keep the game's choice or change it before a newly generated human baby finishes
 Download **BirthChoice.0.6.3.zip** from Releases. The same ASI includes profiles for the supported UC/EP9 executable, EA Legacy **1.18.0.189** and Steam Legacy **1.18.0.187**. The matching profile is selected automatically; unrecognized builds are rejected.
 
 1. Exit the game and remove any previous BirthChoice ASI.
-2. Copy `MishkaMidsummer_BabyGenderChoice.asi` into your working **32-bit ASI loader's plugin folder**.
+2. Copy `BabyGenderChoice.asi` into your working **32-bit ASI loader's plugin folder**.
 3. Launch the game with only one copy of BirthChoice installed.
 
 An ASI loader is required and is not bundled. See the release's `README.txt` for folder details.
